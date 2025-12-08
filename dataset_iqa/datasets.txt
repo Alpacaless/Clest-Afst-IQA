@@ -1,0 +1,22 @@
+在此处下载数据集
+数据集（提供下载链接）
+1.自然图像质量评估
+（1）LIVE数据集：https://live.ece.utexas.edu/research/quality/subjective.htm.
+（2）CSIQ数据集：http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23.
+（3）TID2013数据集：http://www.ponomarenko.info/tid2013.htm.
+（4）KADID10k数据集：http://database.mmsp-kn.de/kadid-10k-database.html.
+（5）LIVEC数据集：https://live.ece.utexas.edu/research/ChallengeDB.
+（6）KonIQ10k数据集：http://database.mmsp-kn.de/koniq-10k-database.html.
+（7）LIVE-FB数据集：https://baidut.github.io/PaQ-2-PiQ/.
+对比学习网络预训练数据集：
+（1）KADIS-700k数据集：http://database.mmsp-kn.de/kadid-10k-database.html.
+（2）AVA数据集：https://github.com/mtobeiyf/ava_downloader.
+（3）COCO数据集：https://cocodataset.org/#download.
+（4）CERTH-Blurs数据集：https://mklab.iti.gr/results/certh-image-blur-dataset/.
+（5）VOC数据集：http://host.robots.ox.ac.uk:8080/pascal/VOC/voc2012/.
+2. 医学图像质量评估
+（1）PMIQA数据：https://github.com/mikugyf/PMIQD-SIS/tree/main/data/dataset.
+（2）FocusPath数据集：
+https://drive.usercontent.google.com/download?id=1TlPszQjwhnlBU6LScKBkUa78eA7oq13X&export=download&authuser=0&confirm=t&uuid=8adc459d-5749-44e4-936d-f33bbc5836b7&at=APcmpoxyII21V_CrLOiuIdguuwQm%3A1744096443504.
+（3）MRIQA数据集：https://marosz.kia.prz.edu.pl/NOMRIQA.html.
+（4）CXIQ数据集：https://github.com/MIRACLE-Center/CXIQ.
